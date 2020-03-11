@@ -45,9 +45,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gspark-danbi/gs-park-portfolio"
+    "url": "https://github.com/gs-park/port-folio"
   },
   "bugs": {
-    "url": "https://github.com/santosfrancisco/gatsby-starter-cv/issues"
+    "url": "https://github.com/gs-park/port-folio/issues"
   }
 }

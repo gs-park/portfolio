@@ -363,7 +363,7 @@ module.exports = {
       icon: 'FaTv',
     },
   ],
-  siteUrl: 'https://gspark-danbi.github.io/gs-park-portfolio/',
+  siteUrl: 'ttps://gs-park.github.io/port-folio/',
   pathPrefix: '/gs-park-portfolio', // Note: it must *not* have a trailing slash.
   siteCover: './images/cover2.jpg',
   googleAnalyticsId: '',
