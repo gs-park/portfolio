@@ -364,7 +364,7 @@ module.exports = {
     },
   ],
   siteUrl: 'ttps://gs-park.github.io/port-folio/',
-  pathPrefix: '/gs-park-portfolio', // Note: it must *not* have a trailing slash.
+  pathPrefix: '/port-folio', // Note: it must *not* have a trailing slash.
   siteCover: './images/cover2.jpg',
   googleAnalyticsId: '',
   background_color: '#ffffff',
