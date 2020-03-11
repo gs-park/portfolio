@@ -157,7 +157,7 @@ module.exports = {
       occupation: 'Lead Developer',
       description:
         'KIOSK : 제주도를 방문하는 해외 여행객들을 위한 무인 티켓 발권 앱  ( Back-end: 참여율 100% )',
-        img: './images/kiosk.png',
+      img: './images/kiosk.png',
     },
     {
       company: 'Danbi 외주',
@@ -170,7 +170,7 @@ module.exports = {
       occupation: 'Lead Developer',
       description:
         'SQRAP : 유명 커뮤니티를 통합한 커뮤니티 ( Back-end: 참여율 100% )',
-        img: './images/sqrap.png',
+      img: './images/sqrap.png',
     },
     {
       company: 'Danbi 외주',
@@ -209,6 +209,7 @@ module.exports = {
       occupation: 'Lead Developer',
       description:
         'Wenicle : 청소 예약 관리 APP ( Back-end: 참여율 100% )',
+      img: '',
     },
     {
       company: 'Danbi 외주',
@@ -221,6 +222,7 @@ module.exports = {
       occupation: 'Lead Developer',
       description:
         'C2 soft : Table Manager APP에서 사용할 비인증 결제 모듈 개발 ( 참여율 100% )',
+      img: '',
     },
     {
       company: 'Danbi 외주',
@@ -233,6 +235,7 @@ module.exports = {
       occupation: 'Lead Developer',
       description:
         'Red Table : 대학가 식당 오더 시스템 ( 참여율 100% )',
+      img: '',
     },
     {
       company: 'Danbi 외주',
@@ -284,6 +287,7 @@ module.exports = {
       occupation: 'Lead Developer',
       description:
         '교통관제 시스템 : 교차로내 설치된 제어기 원격 관리 관제 시스템',
+      img: '',
     },
   ],
   publications: [

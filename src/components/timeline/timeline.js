@@ -34,16 +34,17 @@ const Timeline = ({ className }) => {
                 </small>
               </h2>
               <p>{job.description}</p>
-              <div className="imgdiv">
-                <img
-                className="timeimg"
-                src={job.img}
-                />
-                { job.img === "./images/order.png" &&
-                <video className="timevideo" controls src="./images/order_pos.mp4"/>
-                }
-              </div>
-              
+              { job.img.length > 0 &&
+                <div className="imgdiv">
+                  <img
+                  className="timeimg"
+                  src={job.img}
+                  />
+                  { job.img === "./images/order.png" &&
+                  <video className="timevideo" controls src="./images/order_pos.mp4"/>
+                  }
+                </div>
+              }
             </div>
           </article>
         ))}
